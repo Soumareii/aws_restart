@@ -3,7 +3,11 @@
         "@saveall": true
     },
     "extensions": {
+        "@aws.profile": "profile:default",
         "@json.schemas": []
+    },
+    "instance": {
+        "@automaticShutdown": "never"
     },
     "language": {
         "tern_defs": {
